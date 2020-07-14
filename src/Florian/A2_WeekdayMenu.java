@@ -10,4 +10,11 @@ public class A2_WeekdayMenu extends A2_Menu{
     }
 
 
+    public void soup(){
+        System.out.println("The Soup of the day is " + getSoup());
+    }
+
+
+
+
 }
